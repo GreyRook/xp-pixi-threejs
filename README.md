@@ -10,3 +10,5 @@ Experiment using three.js inside pixi
 1. ThreeJS should render inside the current canvas and not a second canvas.
 2. Embed ThreeJS as object into pixi js - not the other way around
 
+## Sources / references
+1. http://www.html5gamedevs.com/topic/20183-simple-quad-with-custom-shaders/#comment-114666
